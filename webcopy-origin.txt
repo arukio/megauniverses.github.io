@@ -1,0 +1,276 @@
+Uri: https://cdn.discordapp.com/attachments/1239165901815812176/1242505370673610772/MegaUniversesMZ.rar?ex=664f664d&is=664e14cd&hm=e27e76fe78f5d896adb5ea2d794342fc7363770213b5ec59b26309bc9314b65e&
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\attachments\1239165901815812176\1242505370673610772\MegaUniversesMZ.rar
+Content Type: application/vnd.rar
+
+Uri: https://megauniverses.com/
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\index.htm
+Content Type: text/html
+
+Uri: https://megauniverses.com/css-1
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\css-1
+Content Type: application/octet-stream
+
+Uri: https://megauniverses.com/css/main.css
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\css\main.css
+Content Type: text/css
+
+Uri: https://megauniverses.com/css/plugins.css
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\css\plugins.css
+Content Type: text/css
+
+Uri: https://megauniverses.com/css2
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\css2
+Content Type: application/octet-stream
+
+Uri: https://megauniverses.com/favicon.html
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\favicon.html
+Content Type: text/html
+
+Uri: https://megauniverses.com/favicon.ico
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://megauniverses.com/fonts/berlin_sans_fb_demi_bold-webfont.woff
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\berlin_sans_fb_demi_bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://megauniverses.com/fonts/berlin_sans_fb_demi_bold-webfont.woff2
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\berlin_sans_fb_demi_bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://megauniverses.com/fonts/fa-brands-400.eot
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megauniverses.com/fonts/fa-brands-400.ttf
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://megauniverses.com/fonts/fa-brands-400.woff
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://megauniverses.com/fonts/fa-brands-400.woff2
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://megauniverses.com/fonts/fa-brands-400d41dd41dd41dd41d.eot
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-brands-400d41dd41dd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megauniverses.com/fonts/fa-regular-400.eot
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megauniverses.com/fonts/fa-regular-400.ttf
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://megauniverses.com/fonts/fa-regular-400.woff
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://megauniverses.com/fonts/fa-regular-400.woff2
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://megauniverses.com/fonts/fa-regular-400d41dd41dd41dd41d.eot
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-regular-400d41dd41dd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megauniverses.com/fonts/fa-solid-900.eot
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megauniverses.com/fonts/fa-solid-900.ttf
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://megauniverses.com/fonts/fa-solid-900.woff
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://megauniverses.com/fonts/fa-solid-900.woff2
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://megauniverses.com/fonts/fa-solid-900d41dd41dd41dd41d.eot
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\fa-solid-900d41dd41dd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megauniverses.com/fonts/flaticonf1e7f1e7f1e7f1e7.eot
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\flaticonf1e7f1e7f1e7f1e7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megauniverses.com/fonts/flaticonf1e7f1e7f1e7f1e7.ttf
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\flaticonf1e7f1e7f1e7f1e7.ttf
+Content Type: font/ttf
+
+Uri: https://megauniverses.com/fonts/flaticonf1e7f1e7f1e7f1e7.woff
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\flaticonf1e7f1e7f1e7f1e7.woff
+Content Type: font/woff
+
+Uri: https://megauniverses.com/fonts/flaticonf1e7f1e7f1e7f1e7.woff2
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\fonts\flaticonf1e7f1e7f1e7f1e7.woff2
+Content Type: font/woff2
+
+Uri: https://megauniverses.com/images/btn_shape01.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\btn_shape01.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/btn_shape02.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\btn_shape02.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/fa-brands-400.svg
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megauniverses.com/images/fa-regular-400.svg
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megauniverses.com/images/fa-solid-900.svg
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://megauniverses.com/images/flaticonf1e7f1e7f1e7f1e7.svg
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\flaticonf1e7f1e7f1e7f1e7.svg
+Content Type: image/svg+xml
+
+Uri: https://megauniverses.com/images/footer_shape.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\footer_shape.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery01.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery01.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery02.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery02.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery03.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery03.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery04.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery04.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery05.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery05.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery06.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery06.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery07.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery07.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery08.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery08.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery09.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery09.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/gallery10.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\gallery10.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/line.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\line.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/mask_bg01.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\mask_bg01.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/mask_bg02.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\mask_bg02.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/octopus.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\octopus.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/search_wave.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\search_wave.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/shop_shape.svg
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\shop_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://megauniverses.com/images/spaceship.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\spaceship.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/team01.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\team01.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/team02.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\team02.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/team03.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\team03.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/team04.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\team04.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/text_gradient_bg.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\text_gradient_bg.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/title_shape.svg
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\title_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://megauniverses.com/images/trophy_color.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\trophy_color.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/images/video_overlay.png
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\images\video_overlay.png
+Content Type: image/png
+
+Uri: https://megauniverses.com/index.html
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\index.html
+Content Type: text/html
+
+Uri: https://megauniverses.com/js/ajax-form.js
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\js\ajax-form.js
+Content Type: application/javascript
+
+Uri: https://megauniverses.com/js/jquery-3.6.0.min.js
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://megauniverses.com/js/main.js
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://megauniverses.com/js/plugins.js
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://megauniverses.com/js/tg-page-head.js
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\js\tg-page-head.js
+Content Type: application/javascript
+
+Uri: https://megauniverses.com/js_1
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\js_1
+Content Type: application/octet-stream
+
+Uri: https://megauniverses.com/trendoctopus_img.html
+File Name: C:\Users\sxmet\OneDrive\Masaüstü\megauni\megauniverses.com\trendoctopus_img.html
+Content Type: text/html
+
